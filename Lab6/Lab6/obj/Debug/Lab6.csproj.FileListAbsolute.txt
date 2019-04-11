@@ -1,0 +1,13 @@
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Grant\Documents\College\Fall Semester 2016\CIS199\Labs\Lab6\Lab6\obj\Debug\Lab6.pdb
