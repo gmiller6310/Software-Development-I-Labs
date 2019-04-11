@@ -1,0 +1,9 @@
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab8\Lab8\obj\Debug\Lab8.pdb

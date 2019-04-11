@@ -1,0 +1,9 @@
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\obj\Debug\Lab9.DateForm.resources
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.Cache
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Labs\Lab9\Lab9\obj\Debug\Lab9.pdb
