@@ -1,0 +1,12 @@
+c:\users\grant\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+c:\users\grant\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lab1Form.resources
+c:\users\grant\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab1.exe.config
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab1.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab1.pdb
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1.pdb
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Lab1\WindowsFormsApplication1\bin\Debug\Lab1.exe.config
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Lab1\WindowsFormsApplication1\obj\Debug\Lab1.exe
+C:\Users\Grant\Documents\Visual Studio 2015\Projects\Lab1\WindowsFormsApplication1\obj\Debug\Lab1.pdb
